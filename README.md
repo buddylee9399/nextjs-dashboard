@@ -169,4 +169,5 @@ export default function NavLinks() {
 ```
 
 ## Setting Up Your Database
+- deployed to vercel
 - 
